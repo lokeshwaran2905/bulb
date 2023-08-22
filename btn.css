@@ -1,0 +1,19 @@
+body{
+    overflow: hidden;
+}
+
+.bulb-box{
+    position: relative;
+    top:200px;
+    left:50%; 
+}
+
+#button{
+    display: block;
+    margin-top: 10px;
+    position: absolute;
+    left: 20px;
+}
+
+
+
